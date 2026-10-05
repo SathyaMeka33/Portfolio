@@ -11,13 +11,19 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-6 md:px-12 flex flex-col md:flex-row items-center justify-between gap-6">
         {/* Left */}
         <div className="flex flex-col sm:flex-row items-center gap-3 text-center sm:text-left">
-          <span className="text-white font-medium">© 2026 SATHYA</span>
+          <span className="text-white font-medium">© 2026 Sathya Meka</span>
           <span className="hidden sm:inline text-[#444444]">·</span>
-          <span>VEERA VENKATA SATYA NARAYANA MEKA</span>
+          <span className="text-[#a0a0a0]">Software Engineering / Data Science</span>
         </div>
 
         {/* Center Links */}
-        <div className="flex items-center gap-6">
+        <div className="flex flex-wrap items-center justify-center gap-6">
+          <a
+            href={`mailto:${PERSONAL_INFO.email}`}
+            className="hover:text-white transition-colors"
+          >
+            EMAIL
+          </a>
           <a
             href={PERSONAL_INFO.links.linkedin}
             target="_blank"

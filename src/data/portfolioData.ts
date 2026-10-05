@@ -27,6 +27,10 @@ export const SKILL_GROUPS: SkillGroup[] = [
     skills: ['React.js', 'Node.js'],
   },
   {
+    category: 'BACKEND / APPLICATION DEVELOPMENT',
+    skills: ['Python', 'Django', 'REST APIs'],
+  },
+  {
     category: 'DATABASES',
     skills: ['SQL', 'PostgreSQL'],
   },
@@ -35,13 +39,12 @@ export const SKILL_GROUPS: SkillGroup[] = [
     skills: ['Git', 'GitHub', 'VS Code'],
   },
   {
-    category: 'CORE COMPETENCIES',
+    category: 'CORE CONCEPTS',
     skills: [
       'Data Structures',
       'Algorithms',
       'OOP',
       'DBMS',
-      'REST APIs',
       'Problem Solving',
       'Responsive Design',
     ],
