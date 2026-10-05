@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sathyameka.dev/</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/about</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/about</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/projects</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/projects</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/projects/career-os</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/projects/career-os</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/skills</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/skills</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/education</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/education</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/certifications</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/certifications</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://sathyameka.dev/contact</loc>
+    <loc>https://sathyamekaportfolio.vercel.app/contact</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

@@ -5,7 +5,7 @@
 
 export const SITE_URL =
   (typeof process !== 'undefined' && process.env?.VITE_SITE_URL) ||
-  'https://sathyameka.dev';
+  'https://sathyamekaportfolio.vercel.app';
 
 export const PERSONAL_SEO = {
   fullName: 'Veera Venkata Satya Narayana Meka',

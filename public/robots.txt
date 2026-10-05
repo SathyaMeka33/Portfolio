@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404
 
-Sitemap: https://sathyameka.dev/sitemap.xml
+Sitemap: https://sathyamekaportfolio.vercel.app/sitemap.xml
